@@ -1,6 +1,4 @@
-FROM themattrix/tox-base
-
-MAINTAINER Matthew Tardiff <mattrix@gmail.com>
+FROM pozetroninc/tox-base
 
 ONBUILD COPY install-prereqs*.sh requirements*.txt tox.ini /app/
 ONBUILD ARG SKIP_TOX=false
