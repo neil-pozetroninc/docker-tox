@@ -1,6 +1,6 @@
 # Tox
 
-*Available on Docker Hub as [`themattrix/tox`](https://registry.hub.docker.com/u/themattrix/tox/).*
+*Available on Docker Hub as [`pozetroninc/tox`](https://hub.docker.com/r/pozetroninc/tox).*
 
 This image is intended for running [tox](https://tox.readthedocs.org/en/latest/) with
 Python 3.7, 3.8, 3.9, 3.10, 3.11, PyPy, and PyPy3.
